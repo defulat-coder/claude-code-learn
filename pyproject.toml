@@ -1,0 +1,11 @@
+[project]
+name = "learn-claude-code"
+version = "0.1.0"
+description = "12 progressive sessions to build a nano Claude Code-like agent from scratch"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.25.0",
+    "python-dotenv>=1.0.0",
+]
